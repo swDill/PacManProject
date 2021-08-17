@@ -1,0 +1,28 @@
+34436: 22:30:27.002 - ---
+34436: 22:30:27.002 - Service: "Photon Socket Server" starting
+34436: 22:30:27.002 - Config File: C:\Users\deest\Desktop\New folder (3)\deploy\bin_Win64\PhotonServer.config
+34436: 22:30:27.005 - Will produce at most: 10 crash dumps
+34436: 22:30:27.005 - Construction of service object complete
+34436: 22:30:27.005 - Service shutting down
+34436: 22:30:27.006 - Service shut down complete
+28768: 22:31:36.909 - ---
+28768: 22:31:36.909 - Service: "Photon Socket Server" starting
+28768: 22:31:36.909 - Config File: C:\Users\deest\Desktop\New folder (3)\deploy\bin_Win64\PhotonServer.config
+28768: 22:31:36.911 - Will produce at most: 10 crash dumps
+28768: 22:31:36.911 - Construction of service object complete
+28768: 22:31:36.911 - Service shutting down
+28768: 22:31:36.913 - Service shut down complete
+20628: 22:33:25.178 - ---
+20628: 22:33:25.178 - Service: "Photon Socket Server" starting
+20628: 22:33:25.178 - Config File: C:\Users\deest\Desktop\New folder (3)\deploy\bin_Win64\PhotonServer.config
+20628: 22:33:25.180 - Will produce at most: 10 crash dumps
+20628: 22:33:25.180 - Construction of service object complete
+20628: 22:33:25.180 - Service shutting down
+20628: 22:33:25.182 - Service shut down complete
+32960: 22:41:42.575 - ---
+32960: 22:41:42.575 - Service: "Photon Socket Server" starting
+32960: 22:41:42.575 - Config File: C:\Users\deest\Desktop\New folder (3)\deploy\bin_Win64\PhotonServer.config
+32960: 22:41:42.577 - Will produce at most: 10 crash dumps
+32960: 22:41:42.577 - Construction of service object complete
+32960: 22:41:42.577 - Service shutting down
+32960: 22:41:42.580 - Service shut down complete
